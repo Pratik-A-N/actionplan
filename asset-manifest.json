@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aptest/static/css/main.5d4bdaed.css",
+    "main.js": "/aptest/static/js/main.8c22d229.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/aptest/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/aptest/index.html",
+    "main.5d4bdaed.css.map": "/aptest/static/css/main.5d4bdaed.css.map",
+    "main.8c22d229.js.map": "/aptest/static/js/main.8c22d229.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/aptest/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d4bdaed.css",
+    "static/js/main.8c22d229.js"
+  ]
+}
