@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/aptest/static/css/main.5d4bdaed.css",
-    "main.js": "/aptest/static/js/main.2fe942e0.js",
+    "main.css": "/aptest/static/css/main.4c356106.css",
+    "main.js": "/aptest/static/js/main.8fe3db13.js",
     "static/js/787.c4e7f8f9.chunk.js": "/aptest/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Group.png": "/aptest/static/media/Group.f174649efbeddd6bf311.png",
+    "static/media/Group2.png": "/aptest/static/media/Group2.91484cde6f109519ac36.png",
     "index.html": "/aptest/index.html",
-    "main.5d4bdaed.css.map": "/aptest/static/css/main.5d4bdaed.css.map",
-    "main.2fe942e0.js.map": "/aptest/static/js/main.2fe942e0.js.map",
+    "main.4c356106.css.map": "/aptest/static/css/main.4c356106.css.map",
+    "main.8fe3db13.js.map": "/aptest/static/js/main.8fe3db13.js.map",
     "787.c4e7f8f9.chunk.js.map": "/aptest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d4bdaed.css",
-    "static/js/main.2fe942e0.js"
+    "static/css/main.4c356106.css",
+    "static/js/main.8fe3db13.js"
   ]
 }
