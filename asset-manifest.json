@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/aptest/static/css/main.d229e4fd.css",
-    "main.js": "/aptest/static/js/main.540928df.js",
+    "main.css": "/aptest/static/css/main.82587eaf.css",
+    "main.js": "/aptest/static/js/main.f8f4bcb3.js",
     "static/js/787.c4e7f8f9.chunk.js": "/aptest/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/Group.png": "/aptest/static/media/Group.f174649efbeddd6bf311.png",
-    "static/media/Group2.png": "/aptest/static/media/Group2.91484cde6f109519ac36.png",
+    "static/media/h1.png": "/aptest/static/media/h1.63cde3b7492cf03803b6.png",
+    "static/media/testi.png": "/aptest/static/media/testi.1b40af835b27ad459688.png",
+    "static/media/rule.png": "/aptest/static/media/rule.7095f1a39a76462234e6.png",
+    "static/media/faq.png": "/aptest/static/media/faq.a72203560366736d70f2.png",
+    "static/media/mentor.png": "/aptest/static/media/mentor.d3cb50c7dc29965831ae.png",
     "static/media/four.png": "/aptest/static/media/four.3578dceebd92b95c569b.png",
     "static/media/three.png": "/aptest/static/media/three.433e6a18ceeedaab25e6.png",
     "static/media/five.png": "/aptest/static/media/five.5c1ae7fb6c923c892d6d.png",
@@ -17,12 +20,12 @@
     "static/media/ffi.png": "/aptest/static/media/ffi.5b8af50686c7af987458.png",
     "static/media/fto.png": "/aptest/static/media/fto.303253295b79477620c6.png",
     "index.html": "/aptest/index.html",
-    "main.d229e4fd.css.map": "/aptest/static/css/main.d229e4fd.css.map",
-    "main.540928df.js.map": "/aptest/static/js/main.540928df.js.map",
+    "main.82587eaf.css.map": "/aptest/static/css/main.82587eaf.css.map",
+    "main.f8f4bcb3.js.map": "/aptest/static/js/main.f8f4bcb3.js.map",
     "787.c4e7f8f9.chunk.js.map": "/aptest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d229e4fd.css",
-    "static/js/main.540928df.js"
+    "static/css/main.82587eaf.css",
+    "static/js/main.f8f4bcb3.js"
   ]
 }
