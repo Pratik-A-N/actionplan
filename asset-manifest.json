@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aptest/static/css/main.82587eaf.css",
-    "main.js": "/aptest/static/js/main.f8f4bcb3.js",
+    "main.css": "/aptest/static/css/main.be509ce2.css",
+    "main.js": "/aptest/static/js/main.9782909a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/aptest/static/js/787.c4e7f8f9.chunk.js",
     "static/media/h1.png": "/aptest/static/media/h1.63cde3b7492cf03803b6.png",
     "static/media/testi.png": "/aptest/static/media/testi.1b40af835b27ad459688.png",
@@ -13,19 +13,31 @@
     "static/media/five.png": "/aptest/static/media/five.5c1ae7fb6c923c892d6d.png",
     "static/media/one.png": "/aptest/static/media/one.394a4a7a98a35c31f676.png",
     "static/media/two.png": "/aptest/static/media/two.c6730e711c652b341dc1.png",
+    "static/media/servo.jpg": "/aptest/static/media/servo.f219d7c4a55a467b407d.jpg",
     "static/media/six.png": "/aptest/static/media/six.b6d5ccf4f6c7f9b5ccd8.png",
+    "static/media/ba.png": "/aptest/static/media/ba.d1ec900fe3d0dba2ce7b.png",
+    "static/media/desi.png": "/aptest/static/media/desi.f2f13a1027af28aa053c.png",
+    "static/media/nabard.jpeg": "/aptest/static/media/nabard.4296712fedee20520cd5.jpeg",
+    "static/media/cio.jpg": "/aptest/static/media/cio.f84a8c42389e595db743.jpg",
+    "static/media/east.png": "/aptest/static/media/east.7321578a0694f2e37532.png",
+    "static/media/tgh.png": "/aptest/static/media/tgh.91654abb992956cd5563.png",
+    "static/media/yinc.jpg": "/aptest/static/media/yinc.e46d4e1709be1828044a.jpg",
+    "static/media/asem.png": "/aptest/static/media/asem.c3a8ef3fb49d229edfd4.png",
+    "static/media/sup.jpg": "/aptest/static/media/sup.8b5f145974c64ccc77f6.jpg",
+    "static/media/getuni.png": "/aptest/static/media/getuni.5ef893095e436ea1863a.png",
+    "static/media/ed.png": "/aptest/static/media/ed.21480d3d93bcb606b751.png",
     "static/media/fo.png": "/aptest/static/media/fo.cc5009b927d62eed365b.png",
     "static/media/ffo.png": "/aptest/static/media/ffo.324f8c00f4d1b4a4cf09.png",
     "static/media/fs.png": "/aptest/static/media/fs.22426269583cd6d2f0f8.png",
     "static/media/ffi.png": "/aptest/static/media/ffi.5b8af50686c7af987458.png",
     "static/media/fto.png": "/aptest/static/media/fto.303253295b79477620c6.png",
     "index.html": "/aptest/index.html",
-    "main.82587eaf.css.map": "/aptest/static/css/main.82587eaf.css.map",
-    "main.f8f4bcb3.js.map": "/aptest/static/js/main.f8f4bcb3.js.map",
+    "main.be509ce2.css.map": "/aptest/static/css/main.be509ce2.css.map",
+    "main.9782909a.js.map": "/aptest/static/js/main.9782909a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/aptest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82587eaf.css",
-    "static/js/main.f8f4bcb3.js"
+    "static/css/main.be509ce2.css",
+    "static/js/main.9782909a.js"
   ]
 }
