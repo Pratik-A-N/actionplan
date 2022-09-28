@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aptest/static/css/main.be509ce2.css",
-    "main.js": "/aptest/static/js/main.9782909a.js",
+    "main.css": "/aptest/static/css/main.33396b43.css",
+    "main.js": "/aptest/static/js/main.5ec3b5ea.js",
     "static/js/787.c4e7f8f9.chunk.js": "/aptest/static/js/787.c4e7f8f9.chunk.js",
     "static/media/h1.png": "/aptest/static/media/h1.63cde3b7492cf03803b6.png",
     "static/media/testi.png": "/aptest/static/media/testi.1b40af835b27ad459688.png",
@@ -32,12 +32,12 @@
     "static/media/ffi.png": "/aptest/static/media/ffi.5b8af50686c7af987458.png",
     "static/media/fto.png": "/aptest/static/media/fto.303253295b79477620c6.png",
     "index.html": "/aptest/index.html",
-    "main.be509ce2.css.map": "/aptest/static/css/main.be509ce2.css.map",
-    "main.9782909a.js.map": "/aptest/static/js/main.9782909a.js.map",
+    "main.33396b43.css.map": "/aptest/static/css/main.33396b43.css.map",
+    "main.5ec3b5ea.js.map": "/aptest/static/js/main.5ec3b5ea.js.map",
     "787.c4e7f8f9.chunk.js.map": "/aptest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be509ce2.css",
-    "static/js/main.9782909a.js"
+    "static/css/main.33396b43.css",
+    "static/js/main.5ec3b5ea.js"
   ]
 }
