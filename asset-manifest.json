@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/aptest/static/css/main.d4688922.css",
-    "main.js": "/aptest/static/js/main.ce6e5da8.js",
+    "main.css": "/aptest/static/css/main.a44ffb70.css",
+    "main.js": "/aptest/static/js/main.05e1341e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/aptest/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/contbg.png": "/aptest/static/media/contbg.f39105b6f073e942585e.png",
     "static/media/h1.png": "/aptest/static/media/h1.63cde3b7492cf03803b6.png",
     "static/media/testi.png": "/aptest/static/media/testi.1b40af835b27ad459688.png",
     "static/media/rule.png": "/aptest/static/media/rule.7095f1a39a76462234e6.png",
@@ -33,12 +34,12 @@
     "static/media/ffi.png": "/aptest/static/media/ffi.5b8af50686c7af987458.png",
     "static/media/fto.png": "/aptest/static/media/fto.303253295b79477620c6.png",
     "index.html": "/aptest/index.html",
-    "main.d4688922.css.map": "/aptest/static/css/main.d4688922.css.map",
-    "main.ce6e5da8.js.map": "/aptest/static/js/main.ce6e5da8.js.map",
+    "main.a44ffb70.css.map": "/aptest/static/css/main.a44ffb70.css.map",
+    "main.05e1341e.js.map": "/aptest/static/js/main.05e1341e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/aptest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4688922.css",
-    "static/js/main.ce6e5da8.js"
+    "static/css/main.a44ffb70.css",
+    "static/js/main.05e1341e.js"
   ]
 }
